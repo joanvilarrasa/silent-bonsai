@@ -2,8 +2,8 @@
 
 ## Screenshots
 
-[Silent Bonsai Theme Screenshot 1](img/screenshot1.png)
-[Silent Bonsai Theme Screenshot 2](img/screenshot2.png)
+![Silent Bonsai Theme Screenshot 1](img/screenshot1.png)
+![Silent Bonsai Theme Screenshot 2](img/screenshot2.png)
 
 Silent Bonsai is a minimalistic, low contrast VS Code color theme inspired by dark greens and light sand tones. It is designed to be easy on the eyes, providing a calm and subtle environment for long periods of coding. This theme emphasizes clarity with gentle contrasts, making it suitable for both day and night use.
 

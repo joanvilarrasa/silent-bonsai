@@ -3,7 +3,12 @@
   "publisher": "jvilarrasa",
   "displayName": "silent-bonsai",
   "description": "Low constrast, minimalistic theme that is easy on the eyes. Dark greens and light sands.",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joanvilarrasa/silent-bonsai.git"
+  },
+  "homepage": "https://github.com/joanvilarrasa/silent-bonsai#readme",
   "engines": {
     "vscode": "^1.120.0"
   },
