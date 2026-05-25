@@ -1,0 +1,22 @@
+{
+  "name": "silent-bonsai",
+  "publisher": "jvilarrasa",
+  "displayName": "silent-bonsai",
+  "description": "Low constrast, minimalistic theme that is easy on the eyes. Dark greens and light sands.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Silent Bonsai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Silent Bonsai-color-theme.json"
+      }
+    ]
+  }
+}
