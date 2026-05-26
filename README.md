@@ -20,3 +20,7 @@ Silent Bonsai is a minimalistic, low contrast VS Code color theme inspired by da
 2. Search for **silent-bonsai**.
 3. Click **Install**.
 4. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`), select **Color Theme**, and choose "Silent Bonsai".
+
+## Attribution
+
+The icon has been designed using resources from Flaticon.com
