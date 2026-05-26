@@ -95,7 +95,6 @@
 			],
 			"settings": {
 				"foreground": "#e7cbac",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -186,7 +185,6 @@
 		},
 		"keyword": {
 			"foreground": "#e7cbac",
-			"italic": true
 		},
 		"string": "#8edac5",
 		"number": "#f6c198",
