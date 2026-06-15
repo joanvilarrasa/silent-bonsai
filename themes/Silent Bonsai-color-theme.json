@@ -186,7 +186,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#f5e6de",
+				"foreground": "#e7cbac",
 			}
 		},
 		{
@@ -234,7 +234,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#f5e6de"
+				"foreground": "#e7cbac"
 			}
 		},
 		{
@@ -245,7 +245,7 @@
 				"constant.language"
 			],
 			"settings": {
-				"foreground": "#e7cbac"
+				"foreground": "#8edac5"
 			}
 		},
 		{
@@ -276,11 +276,11 @@
 			"italic": true
 		},
 		"keyword": {
-			"foreground": "#f5e6de",
+			"foreground": "#e7cbac",
 		},
 		"string": "#8edac5",
-		"number": "#e7cbac",
-		"boolean": "#e7cbac",
+		"number": "#8edac5",
+		"boolean": "#8edac5",
 		"function": "#f5e6de",
 		"method": "#f5e6de",
 		"variable": "#f5e6de",
