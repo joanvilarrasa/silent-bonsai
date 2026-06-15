@@ -56,7 +56,7 @@
 		"editorWhitespace.foreground": "#345760",
 		"editorGutter.background": "#151E23",
 		"editorError.foreground": "#fa7578",
-		"editorWarning.foreground": "#f6c198",
+		"editorWarning.foreground": "#e7cbac",
 		"editorInfo.foreground": "#7C98A1",
 		"editorHint.foreground": "#7C98A1",
 		"sideBar.background": "#121D24",
@@ -106,7 +106,7 @@
 		"list.focusBackground": "#274646",
 		"list.focusForeground": "#f5e6de",
 		"list.errorForeground": "#fa7578",
-		"list.warningForeground": "#f6c198",
+		"list.warningForeground": "#e7cbac",
 		"menu.background": "#121D24",
 		"menu.foreground": "#f5e6de",
 		"menu.selectionBackground": "#1A2A2E",
@@ -130,7 +130,7 @@
 		"notifications.foreground": "#f5e6de",
 		"notifications.border": "#2b4040",
 		"notificationsErrorIcon.foreground": "#fa7578",
-		"notificationsWarningIcon.foreground": "#f6c198",
+		"notificationsWarningIcon.foreground": "#e7cbac",
 		"notificationsInfoIcon.foreground": "#7C98A1",
 		"progressBar.background": "#8edac5",
 		"scrollbarSlider.background": "#34576080",
@@ -163,7 +163,7 @@
 		"inputValidation.infoBackground": "#1A2A2E",
 		"inputValidation.infoBorder": "#7C98A1",
 		"inputValidation.warningBackground": "#3b2a1d",
-		"inputValidation.warningBorder": "#f6c198",
+		"inputValidation.warningBorder": "#e7cbac",
 	},
 	"tokenColors": [
 		{
@@ -186,7 +186,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#e7cbac",
+				"foreground": "#f5e6de",
 			}
 		},
 		{
@@ -234,7 +234,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#e7cbac"
+				"foreground": "#f5e6de"
 			}
 		},
 		{
@@ -245,7 +245,7 @@
 				"constant.language"
 			],
 			"settings": {
-				"foreground": "#f6c198"
+				"foreground": "#e7cbac"
 			}
 		},
 		{
@@ -276,11 +276,11 @@
 			"italic": true
 		},
 		"keyword": {
-			"foreground": "#e7cbac",
+			"foreground": "#f5e6de",
 		},
 		"string": "#8edac5",
-		"number": "#f6c198",
-		"boolean": "#f6c198",
+		"number": "#e7cbac",
+		"boolean": "#e7cbac",
 		"function": "#f5e6de",
 		"method": "#f5e6de",
 		"variable": "#f5e6de",
